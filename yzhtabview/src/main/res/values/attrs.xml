@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YZHTabView">
+        <attr name="arcDividerWidth" format="dimension" />
+        <attr name="corner" format="dimension" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="tabSelectedBackgroundColor" format="color" />
+        <attr name="tabSelectedTextColor" format="color" />
+        <attr name="tabUnSelectedTextColor" format="color" />
+        <attr name="tabSelectedTextSize" format="dimension" />
+        <attr name="tabUnSelectedTextSize" format="dimension" />
+        <attr name="dividerControlX" format="dimension" />
+        <attr name="dividerControlY" format="dimension" />
+    </declare-styleable>
+</resources>

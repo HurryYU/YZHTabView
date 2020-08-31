@@ -1,0 +1,2 @@
+include ':app', ':yzhtabview'
+rootProject.name='YZHTabLayoutView'
